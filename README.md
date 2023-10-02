@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Irene 👋
+
+I am a research hydrologist with expertise in leveraging scientific methodologies, cloud computing, high-performance computing, and distributed geospatial datasets to study processes involved in the water cycle. MY research work involves conducting simulations and data analyses of numerical model outputs and observational data to address crucial questions pertaining to the drivers, patterns, and consequences of natural and human-induced changes in hydrologic response across both space and time. I value the principles of open science and open data, which are reflected in my research, fostering foster transparency, collaboration, and inclusivity within the scientific community. My overarching goal is to advance the development of research products that support sustainable and equitable decision-making in the water community.
+
+Currently I work as a research scientist at [CUAHSI](https://www.cuahsi.org/), a non-profit organization dedicated to promoting water science through education and data services. In this role, I contribute to CUAHSI water science research and education activities, and collaborates on research projects to develop and extend CUAHSI’s hydrologic modeling, data analysis, and cloud computing capabilities.
+
+Prior to joining CUAHSI, I worked as a postdoc in Earth System Science at Stanford University. I earned my doctoral degree in Civil and Environmental Engineering from Utah Water Research Laboratory at Utah State University, USA and obtained a master's degrees in Agricultural Engineering – Water Resources Engineering from the University of Tehran, Iran.
+
 
 <!--
 **igarousi/igarousi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
